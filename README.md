@@ -1,17 +1,17 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm **[Your Name]**, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies. 🚀
+I'm **M. Nur Aqil Bahri**, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies. 🚀
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: **Exciting open-source projects and personal initiatives**.
+- 🔭 I’m currently Study at : **TELKOM UNIVERSITY PURWOKERTO**.
 - 🌱 I’m currently learning: **Flutter**, **Dart**, and **Advanced Backend Development**.
 - 👯 I’m looking to collaborate on: **Open-source projects and mobile applications**.
 - 💬 Ask me about: **Web Development**, **Mobile Development**, or **Tech Communities**.
-- 😄 Pronouns: **He/Him** or **She/Her** (customize as needed).
-- ⚡ Fun fact: **I can code faster than I can type messages! 😉**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I can code faster than I can type messages! as long as i have premium GPT 😉**
 
 ---
 
@@ -35,18 +35,17 @@ I'm **[Your Name]**, a passionate developer and tech enthusiast who loves buildi
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Cill19](https://github-readme-stats.vercel.app/api?username=Cill19&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cill19&layout=compact&theme=radical)](https://github.com/Cill19/github-readme-stats)
 
 ---
 
 ## 📫 How to Reach Me
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourlinkedin)
+- 🌐 Portfolio: Still working on it
+- 📧 Email: (mailto:aqilbahri1234@gmail.com)
+- 💼 LinkedIn: ([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/m-nur-aqil-bahri-8a6351260/))
 
 ---
 
