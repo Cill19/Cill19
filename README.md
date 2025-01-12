@@ -7,7 +7,7 @@ I'm **M. Nur Aqil Bahri**, a passionate developer and tech enthusiast who loves 
 ## 🌟 About Me
 
 - 🔭 I’m currently Study at : **TELKOM UNIVERSITY PURWOKERTO**.
-- 🌱 I’m currently learning: **Flutter**, **Dart**, and **Advanced Backend Development**.
+- 🌱 I’m currently learning: **Flutter**, **Dart**, and **System Analyst**.
 - 👯 I’m looking to collaborate on: **Open-source projects and mobile applications**.
 - 💬 Ask me about: **Web Development**, **Mobile Development**, or **Tech Communities**.
 - 😄 Pronouns: **He/Him**
